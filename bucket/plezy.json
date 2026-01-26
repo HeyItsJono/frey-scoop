@@ -1,13 +1,15 @@
 {
     "version": "1.14.1",
     "homepage": "https://github.com/edde746/plezy",
+    "description": "A modern Plex client for desktop and mobile. Built with Flutter for native performance and a clean interface.",
     "checkver": "github",
     "depends": "",
-    "license": "",
+    "license": "GPL-3.0-only",
     "hash": "",
-    "bin": "",
     "autoupdate": {
         "url": "https://github.com/edde746/plezy/releases/download/$version/plezy-windows-installer.exe"
     },
-    "extract_dir": ""
+    "installer": {
+        "file": "plezy-windows-installer.exe"
+    }
 }
