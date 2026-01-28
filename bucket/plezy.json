@@ -6,11 +6,9 @@
     "checkver": "github",
     "license": "GPL-3.0",
     "autoupdate": {
-        "url": "https://github.com/edde746/plezy/releases/download/$version/plezy-windows-installer.exe",
-        "architecture": "64bit"
+        "url": "https://github.com/edde746/plezy/releases/download/$version/plezy-windows-installer.exe"
     },
     "installer": {
-        "file": "plezy-windows-installer.exe",
-        "architecture": "64bit"
+        "file": "plezy-windows-installer.exe"
     }
 }
