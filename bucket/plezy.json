@@ -1,6 +1,5 @@
 {
     "version": "1.14.1",
-    "architecture": "64bit",
     "homepage": "https://github.com/edde746/plezy",
     "description": "A modern Plex client for desktop and mobile. Built with Flutter for native performance and a clean interface.",
     "checkver": "github",
