@@ -1,5 +1,4 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "version": "1.14.1",
     "architecture": "64bit",
     "homepage": "https://github.com/edde746/plezy",
