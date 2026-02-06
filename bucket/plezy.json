@@ -1,5 +1,5 @@
 {
-    "version": "1.15.0",
+    "version": "1.16.0",
     "homepage": "https://github.com/edde746/plezy",
     "description": "A modern Plex client for desktop and mobile. Built with Flutter for native performance and a clean interface.",
     "checkver": "github",
