@@ -1,8 +1,8 @@
 {
     "version": "2.7.0",
-    "description": "Your own search engine.",
-    "homepage": "https:/hister.org/",
-    "license": "AGPL-3.0",
+    "description": "Minimal Windows media player.",
+    "homepage": "https://glucose.media/",
+    "license": "EUPL-1.2",
     "architecture": {
         "64bit": {
             "url": "https://github.com/rudi-q/glucose_media_player/releases/download/v2.7.0/Glucose_Windows.exe",
